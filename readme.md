@@ -30,5 +30,5 @@ MinzCode Tutorial: https://www.youtube.com/watch?v=S-JyJCVx_4Y
 - replaced left and right attributes in the css with inset-inline-start and inset-inline-end to work both in LTR and RTL documents.
 - changed html structure. Put logo outside of nav. (Maybe just a personal preference)
 - changed absolute positioning of header to sticky. (It sticks at the top of your site while you can use famous ```display: grid; grid-template-rows: auto 1fr auto;``` for layouting header, main and footer in body styles)
-- used ```::before``` and ```::after``` to create hamburger menu instead of div. This makes html more semantic. I prefer two bars. but if you can achieve it with styleing the labe itself. You need to adjust position of bars. don't forget to hide the middle bar when menu is open (checkbox is checked). 
+- used ```::before``` and ```::after``` to create hamburger menu instead of ```div```s. This makes html more semantic. I prefer two bars. but if you can achieve it with styleing the labe itself. You need to adjust position of bars. don't forget to hide the middle bar when menu is open (checkbox is checked). 
 - simplified the code a little bit
