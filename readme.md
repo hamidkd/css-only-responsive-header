@@ -6,6 +6,7 @@ This is an ideal (in my opinion) CSS-Only Responsive Header.
 - Works both in LTR and RTL documents
 - link are immediate children of nav (instead of being wrapped in ul and li) which improves accessibility. (https://dockyard.com/blog/2019/11/29/using-nav-without-a-list-element)
 - using flexbox
+- cool animations 
 
 It is fork on MinzCode, css-only responsive header.
 
