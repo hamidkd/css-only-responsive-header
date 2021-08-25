@@ -1,6 +1,6 @@
 # CSS-Only Responsive Header
 
-This is ideal (in my opinion) CSS-Only Responsive Header.
+This is an ideal (in my opinion) CSS-Only Responsive Header.
 
 - No JavaScript. (using a hidden checkbox instead of a button for hamburger menu)
 - Works both in LTR and RTL documents
