@@ -2,7 +2,7 @@
 
 ## Crdeit:
 
-It is fork on MinzCode, css-only responsive header.
+This is a fork on MinzCode, css-only responsive header.
 
 MinzCode CodePen: https://codepen.io/MinzCode/pen/bGexzXw
 MinzCode Tutorial: https://www.youtube.com/watch?v=S-JyJCVx_4Y
