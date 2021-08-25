@@ -29,4 +29,4 @@ MinzCode Tutorial: https://www.youtube.com/watch?v=S-JyJCVx_4Y
 - used flexbox instead of floats.
 - replaced left and right attributes in the css with inset-inline-start and inset-inline-end to work both in LTR and RTL documents.
 - changed html structure. Put logo outside of nav. (Maybe just a personal preference)
-- simplified code a little bit
+- simplified the code a little bit
