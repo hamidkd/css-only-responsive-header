@@ -10,11 +10,10 @@ This is an ideal (in my opinion) CSS-Only Responsive Header.
 
 ##Screenshots
 
-![image](https://user-images.githubusercontent.com/78935540/130834094-31671e7d-b5fd-4dc9-9b61-e0c7edc74424.png)
+![Screenshot 2021-08-25 at 13-05-14 Document](https://user-images.githubusercontent.com/78935540/130834331-8e9849ff-469a-4b24-966d-82b1385917fa.png)
+![Screenshot 2021-08-25 at 13-05-06 Document](https://user-images.githubusercontent.com/78935540/130834335-fbb9f4c7-cdf3-4532-9d30-df6b75b7272d.png)
+![Screenshot 2021-08-25 at 13-04-55 Document](https://user-images.githubusercontent.com/78935540/130834336-b94a1a9a-c654-473d-9cf8-852194c25fbe.png)
 
-![image](https://user-images.githubusercontent.com/78935540/130834172-44af0867-4202-4ca2-96fc-b202d01a599a.png)
-
-![image](https://user-images.githubusercontent.com/78935540/130834208-1523f11e-9e75-4f6d-b5ae-c3e9cc9f4038.png)
 
 
 
