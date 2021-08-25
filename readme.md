@@ -1,6 +1,13 @@
 # CSS-Only Responsive Header
 
-This is an ideal (in my opinion) CSS-Only Responsive Header.
+## Crdeit:
+
+It is fork on MinzCode, css-only responsive header.
+
+MinzCode CodePen: https://codepen.io/MinzCode/pen/bGexzXw
+MinzCode Tutorial: https://www.youtube.com/watch?v=S-JyJCVx_4Y
+
+## Why it is ideal
 
 - No JavaScript. So you can use it with whatever framework you use. (it uses a hidden checkbox instead of a button for hamburger menu)
 - Works both in LTR and RTL documents
@@ -16,10 +23,6 @@ This is an ideal (in my opinion) CSS-Only Responsive Header.
 
 
 
-It is fork on MinzCode, css-only responsive header.
-
-MinzCode CodePen: https://codepen.io/MinzCode/pen/bGexzXw
-MinzCode Tutorial: https://www.youtube.com/watch?v=S-JyJCVx_4Y
 
 ## Things I changed form MinzCode:
 
