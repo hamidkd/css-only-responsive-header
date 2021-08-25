@@ -4,7 +4,7 @@ This is an ideal (in my opinion) CSS-Only Responsive Header.
 
 - No JavaScript. (using a hidden checkbox instead of a button for hamburger menu)
 - Works both in LTR and RTL documents
-- link are immediate children of nav (instead of being wrapped in <ul> and <li>) which improves accessibility. (https://dockyard.com/blog/2019/11/29/using-nav-without-a-list-element)
+- link are immediate children of nav (instead of being wrapped in ul and li) which improves accessibility. (https://dockyard.com/blog/2019/11/29/using-nav-without-a-list-element)
 - using flexbox instead of float.
 
 It is fork on MinzCode, css-only responsive header.
